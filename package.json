@@ -1,0 +1,9 @@
+{
+  "name": "com.savagames.external-dependency-manager",
+  "version": "13.9.0",
+  "displayName": "External Dependency Manager",
+  "description": "External Dependency Manage via UPM",
+  "dependencies": {
+    "com.google.external-dependency-manager": "file:Plugins/com.google.external-dependency-manager-1.2.186.tgz"
+  }
+}
